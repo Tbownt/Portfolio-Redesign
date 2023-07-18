@@ -32,7 +32,7 @@ export const Services = () => {
                           Frontend Development
                         </h3>
                         <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                          HTML, CSS, JavaScript,
+                          HTML, CSS, JavaScript, React, Redux
                           <br />
                           TypeScript, Bootstrap, Material UI, Chakra UI
                         </p>
