@@ -39,10 +39,10 @@ export const Hero = () => {
               <span>
                 <i class="ri-apps-2-line"></i>
               </span>
-              I am a Web Developer oriented to Front-End graduated from Bootcamp
-              SoyHenry and self-taught, I have specialized in the React library
-              for all my projects and practices. I am available to work
-              remotely. I am motivated to learn effectively and confident to
+              I am a Web Developer, my main focus is Front-End development.
+              Graduated from the SoyHenry Bootcamp and self-taught, I have
+              specialized in the React ecosystem for all of my projects and
+              practices. I am motivated to learn effectively and confidently to
               complete challenging tasks.
             </p>
             <div className="flex items-center gap-4 mt-14">
@@ -81,7 +81,7 @@ export const Hero = () => {
           </div>
           {/* hero img end */}
           {/* hero content right */}
-          <div className="md:basis-1/5 flex justify-between text-center mt-10 flex-wrap gap-3 md:mt-0 md:flex-col md:justify-end md:text-end">
+          <div className="sm:flex flex-col md:basis-1/5 flex justify-between text-center mt-10 flex-wrap gap-3 md:mt-0 md:flex-col md:justify-end md:text-end">
             <h2 className="text-headingColor font-[700] text-[32px]">
               <CountUp start={0} end={5} duration={2} suffix="+" />
             </h2>
