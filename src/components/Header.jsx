@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import englishResume from "../assets/images/CV_Andres_Salom_English.pdf";
+import englishResume from "../assets/images/CV_Andres_Salom _English.pdf";
 
 export const Header = () => {
   const menuRef = useRef(null);
