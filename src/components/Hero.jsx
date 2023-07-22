@@ -24,7 +24,7 @@ export const Hero = () => {
                 rel="noreferrer"
               >
                 <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextcolor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                  <i class="ri-mail-add-line"></i> Get in touch
+                  <i className="ri-mail-add-line"></i> Get in touch
                 </button>
               </a>
 
@@ -37,7 +37,7 @@ export const Hero = () => {
             </div>
             <p className="animate__animated animate__fadeInUp animate__delay-3s flex gap-2 text-headingColor mt-12 font-[500] text-[15px] leading-7 sm:pl-14 sm:pr-10">
               <span>
-                <i class="ri-apps-2-line"></i>
+                <i className="ri-apps-2-line"></i>
               </span>
               I am a Web Developer, my main focus is Front-End development.
               Graduated from the SoyHenry Bootcamp and self-taught, I have
@@ -56,7 +56,7 @@ export const Hero = () => {
                   rel="noreferrer"
                   className="text-smallTextColor text-[18px] font-[600] cursor-pointer"
                 >
-                  <i class="ri-linkedin-box-fill"></i>
+                  <i className="ri-linkedin-box-fill"></i>
                 </a>
               </span>
               <span>
@@ -66,7 +66,7 @@ export const Hero = () => {
                   rel="noreferrer"
                   className="text-smallTextColor text-[18px] font-[600] cursor-pointer"
                 >
-                  <i class="ri-github-fill"></i>
+                  <i className="ri-github-fill"></i>
                 </a>
               </span>
             </div>

@@ -14,7 +14,7 @@ export const Footer = () => {
               rel="noreferrer"
             >
               <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextcolor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                <i class="ri-mail-line"></i> Hire me
+                <i className="ri-mail-line"></i> Hire me
               </button>
             </a>
           </div>
@@ -34,7 +34,7 @@ export const Footer = () => {
                   rel="noreferrer"
                   className="text-gray-300 font-[500] text-[18px]"
                 >
-                  <i class="ri-github-line"></i>
+                  <i className="ri-github-line"></i>
                 </a>
               </span>
               <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center">
@@ -44,7 +44,7 @@ export const Footer = () => {
                   rel="noreferrer"
                   className="text-gray-300 font-[500] text-[18px]"
                 >
-                  <i class="ri-linkedin-box-fill"></i>
+                  <i className="ri-linkedin-box-fill"></i>
                 </a>
               </span>
             </div>

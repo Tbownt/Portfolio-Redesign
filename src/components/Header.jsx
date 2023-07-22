@@ -10,7 +10,7 @@ export const Header = () => {
     window.location.assign("https://www.linkedin.com/in/andres-salom/");
   };
   return (
-    <header className="w-full h-[80px] leading-[80px] flex items-center sticky__header">
+    <header className="w-full h-[80px] leading-[80px] flex items-center">
       <div className="container">
         <div className="flex items-center justify-between">
           {/* logo */}
@@ -64,7 +64,7 @@ export const Header = () => {
               onClick={toggleMenu}
               className="text-2xl text-smallTextColor md:hidden cursor-pointer"
             >
-              <i class="ri-menu-line"></i>
+              <i className="ri-menu-line"></i>
             </span>
           </div>
           {/* menu end */}
