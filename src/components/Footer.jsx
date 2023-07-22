@@ -14,7 +14,7 @@ export const Footer = () => {
               rel="noreferrer"
             >
               <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextcolor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                <i className="ri-mail-line"></i> Hire me
+                <i className="ri-mail-line"></i> Let's talk
               </button>
             </a>
           </div>
