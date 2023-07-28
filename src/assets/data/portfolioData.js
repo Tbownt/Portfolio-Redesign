@@ -2,6 +2,7 @@ import heroesApp from "../images/heroesapp.png";
 import CalendarApp from "../images/calendarapp.png";
 import BuddyONG from "../images/buddyong.png";
 import Moonflix from "../images/Moonflix.png";
+import MoonflixRN from "../images/MoonflixRN.jpg";
 import JournalApp from "../images/journalapp.png";
 
 const portfolios = [
@@ -51,6 +52,14 @@ const portfolios = [
     link: "https://buddyong.vercel.app/",
     repository: "https://github.com/Tbownt/Front-Animals",
     image: BuddyONG,
+  },
+  {
+    id: 6,
+    title: "Moonflix React Native Version",
+    description:
+      "This is a recreation of my previous project Moonflix but this time for Mobile, the design was made with TailwindCSS aswell as other dependencies like axios, React-Native-Heroicons, screens and many more!",
+    repository: "https://github.com/Tbownt/Moonflix-ReactNative",
+    image: MoonflixRN,
   },
 ];
 
